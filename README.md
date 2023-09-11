@@ -1,1 +1,1 @@
-1. Trivia app
+1. Trivia app (Coursera -> DevOps on AWS: Code, Build, and Test)
